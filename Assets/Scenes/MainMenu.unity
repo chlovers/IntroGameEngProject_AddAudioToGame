@@ -2948,12 +2948,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d4290a2498fc81b4894976a73ba08e84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerShoot: {fileID: 8300000, guid: 46a890d2361f6e143aa07516c6ed0e64, type: 3}
+  playerShoot: {fileID: 8300000, guid: 4e6c0c2a211432240a49f95b35af1fce, type: 3}
   asteroidExplosion: {fileID: 8300000, guid: 798e1b4e1f707924296be96a1ba0e8e6, type: 3}
   playerDamage: {fileID: 8300000, guid: f21e0ac91a085cc43926fd26b751aaaf, type: 3}
   playerExplosion: {fileID: 8300000, guid: e5b065a1237e1a941ba1c1053858a11a, type: 3}
-  BgMusicGameplay: {fileID: 8300000, guid: f5e4772665a55e445a916eaf6b184e32, type: 3}
-  BgMusicTitleScreen: {fileID: 8300000, guid: 92dd33a3702b842439364d02a9f8e8c9, type: 3}
+  BgMusicGameplay: {fileID: 8300000, guid: 02d55e16f2394564d9f70bbd73102592, type: 3}
+  BgMusicTitleScreen: {fileID: 8300000, guid: 1f3f4f370c86efb4397a9bd6f4ed1bce, type: 3}
 --- !u!4 &1337980917
 Transform:
   m_ObjectHideFlags: 0
